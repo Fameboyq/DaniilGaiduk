@@ -55,24 +55,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniilGaiduk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilGaiduk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniilGaiduk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaniilGaiduk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaniilGaiduk&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Достижения:
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaniilGaiduk&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
