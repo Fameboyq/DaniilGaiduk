@@ -41,11 +41,18 @@
 
 ---
 
-## 🛠 Инструменты:
+## 🛠 Инструменты & AI:
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,gradle,github&theme=dark" alt="Tools" />
+
+<br/><br/>
+
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
+[![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com)
+[![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
 </div>
 
