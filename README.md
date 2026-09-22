@@ -55,14 +55,14 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniilGaiduk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaniilGaiduk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fameboyq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fameboyq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaniilGaiduk&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fameboyq&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -70,6 +70,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DaniilGaiduk&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Fameboyq&color=6C63FF&style=for-the-badge)
 
 </div>
